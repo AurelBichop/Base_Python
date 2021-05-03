@@ -1,0 +1,12 @@
+2021-04-12 11:53:42,525 - ERROR - petit soucis script continue
+2021-04-12 11:53:42,525 - CRITICAL - arrrete le script
+2021-04-12 11:55:01,877 - DEBUG - Savoir ce que ça retourne
+2021-04-12 11:55:01,877 - INFO - information
+2021-04-12 11:55:01,877 - WARNING - avertissement
+2021-04-12 11:55:01,877 - ERROR - petit soucis script continue
+2021-04-12 11:55:01,877 - CRITICAL - arrrete le script
+2021-04-12 12:10:19,520 - DEBUG - Savoir ce que ça retourne
+2021-04-12 12:10:19,520 - INFO - information
+2021-04-12 12:10:19,520 - WARNING - avertissement
+2021-04-12 12:10:19,520 - ERROR - petit soucis script continue
+2021-04-12 12:10:19,520 - CRITICAL - arrrete le script
